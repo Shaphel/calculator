@@ -18,7 +18,7 @@ function getCalc(){
         result= num1 / num2
     }
 
-    else if(operator == "*"  || operator == &#247;){
+    else if(operator == "*"  || operator == "&divide;"){
         result= num1 * num2
     }
 
